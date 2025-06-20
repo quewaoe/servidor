@@ -27,3 +27,14 @@
 [16:36:20] [Server thread/WARN]: Gioasdasd moved too quickly! 8.954546537807914,-2.5,-3.754276498272475
 [16:40:28] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-420, y=118, z=-1510} iw{x=-420, y=119, z=-1510}
 [16:41:23] [Server thread/INFO]: Villager cru['Villager'/105, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-422.11, y=118.19, z=-1506.10] died, message: 'Villager suffocated in a wall'
+[16:51:02] [Server thread/INFO]: Villager cru['Villager'/42, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-423.50, y=118.19, z=-1507.12] died, message: 'Villager was slain by Zombie'
+[16:51:07] [Server thread/INFO]: Villager cru['Villager'/59, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-423.50, y=118.19, z=-1507.12] died, message: 'Villager was slain by Zombie Villager'
+[16:51:08] [Server thread/INFO]: Villager cru['Villager'/44, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-421.97, y=118.19, z=-1506.69] died, message: 'Villager was slain by Zombie Villager'
+[16:53:22] [Server thread/INFO]: Gioasdasd has made the advancement [We Need to Go Deeper]
+[17:00:07] [Server thread/WARN]: Gioasdasd moved wrongly!
+[17:02:03] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
+[17:02:03] [Server thread/INFO]: Gioasdasd left the game
+[17:02:08] [Server thread/INFO]: Gioasdasd[/127.180.63.181:54411] logged in with entity id 9955 at (-155.50848834425582, -21.0, 6.052986849390311)
+[17:02:08] [Server thread/INFO]: Gioasdasd joined the game
+[17:07:08] [Server thread/INFO]: Gioasdasd was doomed to fall by Zombie
+[17:07:34] [Server thread/INFO]: Villager cru['Villager'/12076, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-373.30, y=57.00, z=-1449.61] died, message: 'Villager was slain by Zombie'
