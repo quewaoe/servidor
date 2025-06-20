@@ -33,3 +33,13 @@
 [20:35:04] [Server thread/WARN]: UUID of added entity already exists: cpa['Enderman'/432, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-752.01, y=78.00, z=-1533.56]
 [20:35:36] [Server thread/WARN]: UUID of added entity already exists: ckq['Pig'/654, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-655.82, y=70.00, z=-1148.82]
 [20:41:33] [Server thread/INFO]: Gioasdasd has made the advancement [Local Brewery]
+[20:44:02] [Server thread/INFO]: Villager cru['Villager'/51, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-410.06, y=119.00, z=-1559.46] died, message: 'Villager tried to swim in lava'
+[20:44:02] [Server thread/INFO]: Villager cru['Villager'/52, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-411.07, y=119.44, z=-1558.26] died, message: 'Villager tried to swim in lava'
+[20:44:23] [Server thread/INFO]: Villager cru['Villager'/62, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-439.56, y=119.49, z=-1598.38] died, message: 'Villager tried to swim in lava'
+[20:44:23] [Server thread/INFO]: Villager cru['Librarian'/63, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-441.12, y=119.80, z=-1598.47] died, message: 'Librarian tried to swim in lava'
+[20:44:29] [Server thread/INFO]: Villager cru['Mason'/61, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-424.33, y=119.00, z=-1611.67] died, message: 'Mason burned to death'
+[20:44:39] [Server thread/INFO]: Villager cru['Villager'/33, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-453.99, y=119.00, z=-1590.25] died, message: 'Villager burned to death'
+[20:44:41] [Server thread/INFO]: Villager cru['Villager'/31, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-442.51, y=119.00, z=-1599.88] died, message: 'Villager burned to death'
+[20:44:51] [Server thread/INFO]: Villager cru['Villager'/69, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-439.34, y=119.00, z=-1596.64] died, message: 'Villager was slain by Gioasdasd'
+[20:46:58] [Server thread/INFO]: Villager cru['Villager'/145, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-485.36, y=107.00, z=-1617.75] died, message: 'Villager was slain by Zombie'
+[20:49:20] [Server thread/INFO]: Villager cru['Villager'/50, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-411.69, y=120.00, z=-1565.87] died, message: 'Villager was slain by Zombie Villager'
