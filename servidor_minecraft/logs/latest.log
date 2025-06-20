@@ -1,64 +1,35 @@
-[16:27:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:27:16] [ServerMain/INFO]: Loaded 1373 recipes
-[16:27:16] [ServerMain/INFO]: Loaded 1484 advancements
-[16:27:16] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[16:27:16] [Server thread/INFO]: Loading properties
-[16:27:16] [Server thread/INFO]: Default game type: SURVIVAL
-[16:27:16] [Server thread/INFO]: Generating keypair
-[16:27:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:27:16] [Server thread/INFO]: Using epoll channel type
-[16:27:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:27:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:27:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:27:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:27:16] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
-[16:27:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:27:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:27:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:27:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:27:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:27:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:27:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:27:20] [Server thread/INFO]: Time elapsed: 2763 ms
-[16:27:20] [Server thread/INFO]: Done (3.226s)! For help, type "help"
-[16:30:19] [Server thread/INFO]: Server empty for 180 seconds, pausing
-[16:30:47] [Server thread/INFO]: Gioasdasd[/127.180.63.181:45511] logged in with entity id 10 at (-437.73262842160875, 117.9375, -1499.4084926586709)
-[16:30:47] [Server thread/INFO]: Gioasdasd joined the game
-[16:36:20] [Server thread/WARN]: Gioasdasd moved too quickly! 8.954546537807914,-2.5,-3.754276498272475
-[16:40:28] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-420, y=118, z=-1510} iw{x=-420, y=119, z=-1510}
-[16:41:23] [Server thread/INFO]: Villager cru['Villager'/105, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-422.11, y=118.19, z=-1506.10] died, message: 'Villager suffocated in a wall'
-[16:51:02] [Server thread/INFO]: Villager cru['Villager'/42, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-423.50, y=118.19, z=-1507.12] died, message: 'Villager was slain by Zombie'
-[16:51:07] [Server thread/INFO]: Villager cru['Villager'/59, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-423.50, y=118.19, z=-1507.12] died, message: 'Villager was slain by Zombie Villager'
-[16:51:08] [Server thread/INFO]: Villager cru['Villager'/44, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-421.97, y=118.19, z=-1506.69] died, message: 'Villager was slain by Zombie Villager'
-[16:53:22] [Server thread/INFO]: Gioasdasd has made the advancement [We Need to Go Deeper]
-[17:00:07] [Server thread/WARN]: Gioasdasd moved wrongly!
-[17:02:03] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
-[17:02:03] [Server thread/INFO]: Gioasdasd left the game
-[17:02:08] [Server thread/INFO]: Gioasdasd[/127.180.63.181:54411] logged in with entity id 9955 at (-155.50848834425582, -21.0, 6.052986849390311)
-[17:02:08] [Server thread/INFO]: Gioasdasd joined the game
-[17:07:08] [Server thread/INFO]: Gioasdasd was doomed to fall by Zombie
-[17:07:34] [Server thread/INFO]: Villager cru['Villager'/12076, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-373.30, y=57.00, z=-1449.61] died, message: 'Villager was slain by Zombie'
-[17:07:41] [Server thread/INFO]: Gioasdasd has made the advancement [Isn't It Iron Pick]
-[17:07:52] [Server thread/INFO]: Gioasdasd was slain by Zombie
-[17:08:47] [Server thread/INFO]: Gioasdasd was shot by Stray
-[17:09:29] [Server thread/INFO]: Gioasdasd was slain by Zombie
-[17:09:43] [Server thread/INFO]: Gioasdasd was blown up by Creeper
-[17:09:54] [Server thread/INFO]: Sooofi16[/127.139.48.116:33609] logged in with entity id 15207 at (-394.25208033545124, 120.0, -1594.7744301401208)
-[17:09:54] [Server thread/INFO]: Sooofi16 joined the game
-[17:09:59] [Server thread/INFO]: Gioasdasd was slain by Zombie Villager
-[17:10:01] [Server thread/INFO]: Villager cru['Butcher'/14767, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-429.03, y=118.19, z=-1505.83] died, message: 'Butcher was slain by Zombie'
-[17:10:21] [Server thread/INFO]: Villager cru['Villager'/14768, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-429.03, y=118.19, z=-1505.83] died, message: 'Villager was slain by Zombie Villager'
-[17:10:24] [Server thread/INFO]: Gioasdasd was slain by Zombie Villager
-[17:10:58] [Server thread/INFO]: Villager cru['Villager'/14770, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-430.35, y=118.19, z=-1505.71] died, message: 'Villager was shot by Skeleton'
-[17:11:01] [Server thread/INFO]: Gioasdasd was shot by Skeleton
-[17:11:17] [Server thread/INFO]: Villager cru['Villager'/14771, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-430.55, y=118.19, z=-1505.73] died, message: 'Villager was slain by Zombie Villager'
-[17:11:30] [Server thread/INFO]: Villager cru['Villager'/14765, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-431.39, y=118.19, z=-1506.51] died, message: 'Villager was shot by Skeleton'
-[17:11:46] [Server thread/INFO]: Gioasdasd was shot by Skeleton
-[17:12:07] [Server thread/INFO]: Gioasdasd was shot by Skeleton
-[17:12:21] [Server thread/INFO]: Gioasdasd was shot by Skeleton
-[17:12:30] [Server thread/INFO]: Sooofi16 was shot by Skeleton
-[17:12:36] [Server thread/INFO]: Gioasdasd was shot by Skeleton
-[17:13:15] [Server thread/INFO]: Gioasdasd fell from a high place
-[17:14:05] [Server thread/INFO]: Gioasdasd was slain by Zombie
-[17:18:48] [Server thread/INFO]: Gioasdasd was slain by Zombie
-[17:22:52] [Server thread/INFO]: Sooofi16 has made the advancement [Take Aim]
+[20:33:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:33:31] [ServerMain/INFO]: Loaded 1373 recipes
+[20:33:31] [ServerMain/INFO]: Loaded 1484 advancements
+[20:33:31] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[20:33:31] [Server thread/INFO]: Loading properties
+[20:33:31] [Server thread/INFO]: Default game type: SURVIVAL
+[20:33:31] [Server thread/INFO]: Generating keypair
+[20:33:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:33:31] [Server thread/INFO]: Using epoll channel type
+[20:33:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:33:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:33:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:33:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:33:31] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
+[20:33:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:38] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[20:33:38] [Server thread/INFO]: Time elapsed: 6114 ms
+[20:33:38] [Server thread/INFO]: Done (6.579s)! For help, type "help"
+[20:34:56] [Server thread/INFO]: Gioasdasd[/127.180.63.181:36847] logged in with entity id 26 at (-415.80861864155804, 120.17675927506424, -1568.3554404945025)
+[20:34:56] [Server thread/INFO]: Gioasdasd joined the game
+[20:35:04] [Server thread/WARN]: UUID of added entity already exists: cpa['Enderman'/432, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-752.01, y=78.00, z=-1533.56]
+[20:35:36] [Server thread/WARN]: UUID of added entity already exists: ckq['Pig'/654, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-655.82, y=70.00, z=-1148.82]
+[20:41:33] [Server thread/INFO]: Gioasdasd has made the advancement [Local Brewery]
