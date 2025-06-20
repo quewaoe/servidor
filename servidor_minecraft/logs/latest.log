@@ -1,5 +1,5 @@
-[22:26:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:26:22] [ServerMain/ERROR]: Failed to start the minecraft server
+[22:27:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:27:52] [ServerMain/ERROR]: Failed to start the minecraft server
 azd$a: /workspaces/servidor/servidor_minecraft/./las epicas aventuras de wonderwoman y sus amantes/session.lock: already locked (possibly by other Minecraft instance?)
 	at azd$a.a(SourceFile:95) ~[server-1.21.5.jar:?]
 	at azd.a(SourceFile:41) ~[server-1.21.5.jar:?]
