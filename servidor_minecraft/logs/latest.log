@@ -1,60 +1,10 @@
-[20:33:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:33:31] [ServerMain/INFO]: Loaded 1373 recipes
-[20:33:31] [ServerMain/INFO]: Loaded 1484 advancements
-[20:33:31] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[20:33:31] [Server thread/INFO]: Loading properties
-[20:33:31] [Server thread/INFO]: Default game type: SURVIVAL
-[20:33:31] [Server thread/INFO]: Generating keypair
-[20:33:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:33:31] [Server thread/INFO]: Using epoll channel type
-[20:33:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:33:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:33:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:33:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:33:31] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
-[20:33:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:33:38] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[20:33:38] [Server thread/INFO]: Time elapsed: 6114 ms
-[20:33:38] [Server thread/INFO]: Done (6.579s)! For help, type "help"
-[20:34:56] [Server thread/INFO]: Gioasdasd[/127.180.63.181:36847] logged in with entity id 26 at (-415.80861864155804, 120.17675927506424, -1568.3554404945025)
-[20:34:56] [Server thread/INFO]: Gioasdasd joined the game
-[20:35:04] [Server thread/WARN]: UUID of added entity already exists: cpa['Enderman'/432, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-752.01, y=78.00, z=-1533.56]
-[20:35:36] [Server thread/WARN]: UUID of added entity already exists: ckq['Pig'/654, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-655.82, y=70.00, z=-1148.82]
-[20:41:33] [Server thread/INFO]: Gioasdasd has made the advancement [Local Brewery]
-[20:44:02] [Server thread/INFO]: Villager cru['Villager'/51, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-410.06, y=119.00, z=-1559.46] died, message: 'Villager tried to swim in lava'
-[20:44:02] [Server thread/INFO]: Villager cru['Villager'/52, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-411.07, y=119.44, z=-1558.26] died, message: 'Villager tried to swim in lava'
-[20:44:23] [Server thread/INFO]: Villager cru['Villager'/62, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-439.56, y=119.49, z=-1598.38] died, message: 'Villager tried to swim in lava'
-[20:44:23] [Server thread/INFO]: Villager cru['Librarian'/63, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-441.12, y=119.80, z=-1598.47] died, message: 'Librarian tried to swim in lava'
-[20:44:29] [Server thread/INFO]: Villager cru['Mason'/61, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-424.33, y=119.00, z=-1611.67] died, message: 'Mason burned to death'
-[20:44:39] [Server thread/INFO]: Villager cru['Villager'/33, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-453.99, y=119.00, z=-1590.25] died, message: 'Villager burned to death'
-[20:44:41] [Server thread/INFO]: Villager cru['Villager'/31, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-442.51, y=119.00, z=-1599.88] died, message: 'Villager burned to death'
-[20:44:51] [Server thread/INFO]: Villager cru['Villager'/69, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-439.34, y=119.00, z=-1596.64] died, message: 'Villager was slain by Gioasdasd'
-[20:46:58] [Server thread/INFO]: Villager cru['Villager'/145, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-485.36, y=107.00, z=-1617.75] died, message: 'Villager was slain by Zombie'
-[20:49:20] [Server thread/INFO]: Villager cru['Villager'/50, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-411.69, y=120.00, z=-1565.87] died, message: 'Villager was slain by Zombie Villager'
-[21:09:14] [Server thread/INFO]: Villager cru['Butcher'/157, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-413.69, y=119.19, z=-1552.28] died, message: 'Butcher was slain by Zombie Villager'
-[21:25:56] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
-[21:25:56] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
-[21:25:57] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
-[21:25:57] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
-[21:26:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-416, y=119, z=-1539} iw{x=-424, y=118, z=-1512}
-[21:30:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-429, y=119, z=-1551} iw{x=-429, y=116, z=-1552}
-[21:30:44] [Server thread/INFO]: Villager cru['Butcher'/6096, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-428.06, y=117.38, z=-1551.51] died, message: 'Butcher suffocated in a wall'
-[21:49:33] [Server thread/INFO]: Villager cru['Butcher'/9076, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-427.77, y=118.78, z=-1498.28] died, message: 'Butcher tried to swim in lava'
-[21:50:13] [Server thread/INFO]: Villager cru['Villager'/207, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-374.46, y=85.00, z=-1473.87] died, message: 'Villager was slain by Gioasdasd'
-[21:50:15] [Server thread/INFO]: Villager cru['Villager'/10137, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-375.30, y=83.42, z=-1475.49] died, message: 'Villager was slain by Gioasdasd'
-[21:50:18] [Server thread/INFO]: Villager cru['Villager'/14665, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-378.59, y=81.08, z=-1470.21] died, message: 'Villager tried to swim in lava'
-[21:50:22] [Server thread/INFO]: Villager cru['Villager'/1739, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-378.38, y=81.18, z=-1470.30] died, message: 'Villager tried to swim in lava'
-[21:50:27] [Server thread/INFO]: Villager cru['Villager'/206, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-366.30, y=91.42, z=-1471.50] died, message: 'Villager was burned to a crisp while fighting Gioasdasd'
-[21:50:28] [Server thread/INFO]: Villager cru['Villager'/5874, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-377.45, y=81.59, z=-1470.43] died, message: 'Villager tried to swim in lava'
+[22:26:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:26:22] [ServerMain/ERROR]: Failed to start the minecraft server
+azd$a: /workspaces/servidor/servidor_minecraft/./las epicas aventuras de wonderwoman y sus amantes/session.lock: already locked (possibly by other Minecraft instance?)
+	at azd$a.a(SourceFile:95) ~[server-1.21.5.jar:?]
+	at azd.a(SourceFile:41) ~[server-1.21.5.jar:?]
+	at fah$c.<init>(SourceFile:374) ~[server-1.21.5.jar:?]
+	at fah.d(SourceFile:353) ~[server-1.21.5.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:139) ~[server-1.21.5.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
