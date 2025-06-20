@@ -465,7 +465,8 @@
       "minecraft:silverfish": "2025-06-20 02:56:52 +0000",
       "minecraft:witch": "2025-06-19 22:37:18 +0000",
       "minecraft:spider": "2025-06-19 22:17:28 +0000",
-      "minecraft:zombie": "2025-06-19 21:49:27 +0000"
+      "minecraft:zombie": "2025-06-19 21:49:27 +0000",
+      "minecraft:zombie_villager": "2025-06-20 17:12:50 +0000"
     },
     "done": false
   },
@@ -2032,6 +2033,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-06-20 05:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-20 17:22:52 +0000"
     },
     "done": true
   },
