@@ -44,3 +44,10 @@
 [20:46:58] [Server thread/INFO]: Villager cru['Villager'/145, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-485.36, y=107.00, z=-1617.75] died, message: 'Villager was slain by Zombie'
 [20:49:20] [Server thread/INFO]: Villager cru['Villager'/50, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-411.69, y=120.00, z=-1565.87] died, message: 'Villager was slain by Zombie Villager'
 [21:09:14] [Server thread/INFO]: Villager cru['Butcher'/157, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-413.69, y=119.19, z=-1552.28] died, message: 'Butcher was slain by Zombie Villager'
+[21:25:56] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
+[21:25:56] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
+[21:25:57] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
+[21:25:57] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-433, y=118, z=-1507} iw{x=-417, y=119, z=-1539}
+[21:26:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-416, y=119, z=-1539} iw{x=-424, y=118, z=-1512}
+[21:30:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-429, y=119, z=-1551} iw{x=-429, y=116, z=-1552}
+[21:30:44] [Server thread/INFO]: Villager cru['Butcher'/6096, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-428.06, y=117.38, z=-1551.51] died, message: 'Butcher suffocated in a wall'
