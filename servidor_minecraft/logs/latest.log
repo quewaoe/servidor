@@ -25,3 +25,5 @@
 [16:30:47] [Server thread/INFO]: Gioasdasd[/127.180.63.181:45511] logged in with entity id 10 at (-437.73262842160875, 117.9375, -1499.4084926586709)
 [16:30:47] [Server thread/INFO]: Gioasdasd joined the game
 [16:36:20] [Server thread/WARN]: Gioasdasd moved too quickly! 8.954546537807914,-2.5,-3.754276498272475
+[16:40:28] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-420, y=118, z=-1510} iw{x=-420, y=119, z=-1510}
+[16:41:23] [Server thread/INFO]: Villager cru['Villager'/105, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-422.11, y=118.19, z=-1506.10] died, message: 'Villager suffocated in a wall'
